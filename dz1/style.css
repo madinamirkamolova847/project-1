@@ -1,0 +1,9 @@
+li:nth-child(even){
+    color: green;
+}
+li:nth-child(odd){
+    color: red;
+}
+/* body{
+    box-shadow: -9px -9px 24px -14px rgba(34, 60, 80, 0.6) inset;
+} */
