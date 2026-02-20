@@ -1,0 +1,26 @@
+div {
+    width: 500px;
+    background-color: blue;
+    color: #fff;
+    padding: 20px 40px;
+    margin: 100px auto;
+    border: 5px solid orange;
+    border-radius: 10px;
+
+     
+    img {
+        width: 100%;
+        border-radius: 10px;
+
+    }
+    a {
+        background-color: orange;
+        padding: 10px;
+        border-radius: 20px;
+    }
+
+}
+
+body {
+    background-color: bisque;
+}
